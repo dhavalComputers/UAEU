@@ -1,0 +1,21 @@
+.news img.imgNews {
+  width: 100%;
+}
+.news .content {
+  position: relative;
+  top: -338px;
+  padding: 0 20px;
+  max-width: 380px;
+  z-index: 11;
+}
+.news .content p {
+  text-align: justify;
+  color: #fff;
+}
+.news .content .btn {
+  float: left;
+}
+
+.news .MH {
+  max-height: 360px;
+}

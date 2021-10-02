@@ -1,0 +1,59 @@
+.Research .img-responsive {
+  width: 100%;
+}
+
+.Research .col-md-2 {
+  padding: 0 !important;
+}
+.Research h1.imageTitle {
+  position: relative;
+  z-index: 1;
+  bottom: 360px;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  margin-left: 15px;
+}
+
+.Research h1.title {
+  color: #052942;
+  font-weight: 700;
+}
+.Research.threeImagesSec .researchCard {
+  width: 40%;
+  margin-left: 80px;
+  margin-top: 30%;
+}
+
+/* Hide Show Section  */
+
+.Second {
+  display: none;
+}
+.ImageSection:hover + .Second {
+  display: block !important;
+}
+.Second:hover {
+  display: block !important;
+}
+.First {
+  display: block;
+}
+.ImageSection:hover .threeImagesSec:parent .First {
+  display: none !important;
+}
+/* .threeImagesSec .ImageSection:hover .First {
+  display: none;
+} */
+/* .pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+} */
+
+/* .Research.Research1.threeImagesSec .researchCard {
+  width: 40%;
+  margin-left: 80px;
+  margin-top: 30%;
+} */

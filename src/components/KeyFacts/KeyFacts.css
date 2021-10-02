@@ -1,0 +1,22 @@
+.sec2 {
+    /* background-image: url(/images/KeyFacts.png); */
+    /* background-color: #052942; */
+    color: #fff;
+    padding: 60px 50px 20px;
+}
+
+.title h1{
+    padding: 80px 0;
+    font-weight: 800;
+}
+
+.data h1{
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+.data h6{
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0;
+}

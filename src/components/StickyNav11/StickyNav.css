@@ -1,0 +1,67 @@
+/* .featuresBarContainer {
+    position: -webkit-sticky !important;
+position: sticky !important;
+top: 100;
+} */
+
+#navbar {
+  overflow: hidden;
+  background-color: #fefefea3;
+  width: 85%;
+  margin: 0 auto;
+  position: relative;
+  top: -53px;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #052942;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  text-transform: uppercase;
+  width: 16.66%;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#navbar a.active {
+  background-color: #0000009e;
+  color: white;
+  font-weight: 800;
+}
+
+/* ============= */
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 100; /* this is optional and should be different for every project */
+}
+
+.sticky-wrapper {
+  position: relative;
+  height: 3rem; /* We need to change this value */
+}
+
+.sticky .sticky-inner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+/* .sticky-wrapper.sticky {
+  position: fixed !important;
+  top: 140px;
+  width: 100%;
+} */
+
+.sticky {
+  position: fixed !important;
+  top: 70px !important;
+}

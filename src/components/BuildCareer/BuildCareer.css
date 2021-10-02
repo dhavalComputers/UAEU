@@ -1,0 +1,48 @@
+.Research .img-responsive {
+    width: 100%;
+}
+
+.Research .col-md-2 {
+    padding: 0 !important;
+}
+.Research h1.imageTitle {
+    position: relative;
+    z-index: 1;
+    bottom: 360px;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+.Research h1.title {
+    color: #052942;
+    font-weight: 700;
+}
+.Research .researchCard {
+    width: 40%;
+    margin-left: 25%;
+    margin-top: 8%;
+}
+
+.CareerImg{
+    width: 90%;
+    float: right;
+    right: -10%;
+    position: relative;
+    z-index: 1;
+}
+.bottomSec .CareerImg{
+    width: 90%;
+    float: left;
+    position: relative;
+    left: -3%;
+    top: -38%;
+    z-index: 0;
+}
+
+.Research.Career .bottomSec .researchCard {
+    width: 40%;
+    margin-left: 40%;
+    margin-top: 8%;
+}

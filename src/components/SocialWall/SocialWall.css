@@ -1,0 +1,27 @@
+.sec8 {
+    /* background-image: url(/images/KeyFacts.png); */
+    /* background-color: #052942; */
+    padding: 60px 50px 20px;
+}
+
+.Social .card {
+    padding: 50px 20px 10px;
+}
+
+
+
+
+.Social .card {
+    box-shadow: 0px 2px 3px 1px #00000054;
+    background-color: #ffffff;
+}
+.Social .card:hover {
+    box-shadow: 0 0 15px 0 #00000047;
+}
+
+.Social .card-text{
+    text-align: justify;
+    color: #052942;
+    font-size: 12px;
+    line-height: 16px;
+}

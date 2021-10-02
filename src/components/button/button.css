@@ -1,0 +1,50 @@
+.myBtn {
+  /* display: flex; */
+  padding: 8px 25px;
+}
+.myBtn img.myBtnimg {
+  width: 15px;
+  height: 15px;
+  margin: 0px 0px 5px 15px;
+}
+
+/* For Pink Button  */
+.myBtn.btn-outline-secondary {
+  color: #f04b4b;
+  border-color: #f04b4b;
+}
+
+.myBtn.btn-outline-secondary:hover {
+  color: #fff;
+  background-color: #f04b4b;
+  border-color: #f04b4b;
+}
+.myBtn.btn-outline-secondary:hover img {
+  color: #fff;
+  background-color: #fff;
+  border-color: #f04b4b;
+}
+
+/* For White Button  */
+
+.myBtn.btn-outline-white {
+  color: #fff;
+  border-color: #fff;
+}
+.myBtn.btn-outline-white:hover {
+  color: #fff;
+  background-color: #f04b4b;
+  border-color: #f04b4b;
+}
+
+/* For REd Button  */
+/* .btn-outline-red:hover {
+  color: #f04b4b;
+  border-color: #f04b4b;
+} */
+
+.myBtn.btn-outline-red {
+  color: #fff;
+  background-color: #f04b4b;
+  border-color: #f04b4b;
+}

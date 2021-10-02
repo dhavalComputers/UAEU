@@ -1,0 +1,52 @@
+.Footer {
+ color: white;
+}
+.Footer .logo{
+ width: 100%;
+}
+.Footer .logoSec img.UAE{
+    width: 90px;
+}
+.Footer .logoSec img.social{
+    width: 140px;
+    float: right;
+    margin-top: 10%;
+}
+.Footer h1{
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+.Footer .qlink{
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.Footer .FBlink {
+    text-decoration: none;
+    color: white;
+    /* border-right: 2px solid white; */
+    font-weight: 600;
+    width: auto;
+    padding: 0px 9px;
+    font-size: 14px;
+}
+.Footer .FBlinks {
+    float: left;
+}
+
+.Footer .FBlinks:last-child img {
+    display: none;
+}
+
+
+.footerTitle {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: 700;
+}

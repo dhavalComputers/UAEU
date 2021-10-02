@@ -1,0 +1,67 @@
+.Research .img-responsive {
+  width: 100%;
+}
+
+.Research .col-md-2 {
+  padding: 0 !important;
+}
+.Research h1.imageTitle {
+  position: relative;
+  z-index: 1;
+  bottom: 360px;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  margin-left: 15px;
+}
+
+.Research h1.title {
+  color: #052942;
+  font-weight: 700;
+}
+.Research .researchCard {
+  width: 40%;
+  margin-left: 25%;
+  margin-top: 8%;
+}
+
+/* .CareerImg{
+    width: 90%;
+    float: right;
+    right: -10%;
+    position: relative;
+    z-index: 1;
+}
+.bottomSec .CareerImg{
+    width: 90%;
+    float: left;
+    position: relative;
+    left: -3%;
+    top: -38%;
+    z-index: -1;
+}
+
+.Research.Career .bottomSec .researchCard {
+    width: 40%;
+    margin-left: 40%;
+    margin-top: 8%;
+} */
+
+.LifeImg {
+  width: 100%;
+}
+
+.Life .col-md-6 {
+  padding: 0 !important;
+  box-shadow: 2px 0px 0.8px 0px #00000066;
+}
+.Life .bottomSec .col-md-6 {
+  padding: 0 !important;
+  box-shadow: -1px 0px 0.8px 0px #00000066;
+}
+
+.Life h2.title2 {
+  position: relative;
+  top: -18px;
+  font-weight: 400;
+}

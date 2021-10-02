@@ -1,0 +1,26 @@
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+  background-color: #e4e8eb !important;
+}
+
+.text-left {
+  float: left !important;
+  text-align: left !important;
+}
+.text-right {
+  float: right !important;
+  text-align: right;
+}
+.text-center {
+  text-align: center !important;
+}
+
+.App .topNav .sticky:parent {
+  background-color: red !important;
+}
+
+.text-white {
+  color: #fff !important;
+}

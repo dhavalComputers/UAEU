@@ -1,0 +1,33 @@
+.imgess {
+  width: 100%;
+  padding-top: 2%;
+}
+
+.t1 {
+  display: flex;
+  padding-top: 4%;
+  padding-bottom: 2%;
+}
+
+.image1 {
+  height: 14px;
+  margin-top: 7px;
+}
+
+.Partners .border-bottom {
+  border-bottom: 1px solid #707070 !important;
+  width: 77%;
+}
+.Partners h5 {
+  color: #5d5a5a;
+  text-transform: uppercase;
+  font-size: 20px;
+  width: 88%;
+}
+.Partners h5.headding {
+  color: #5d5a5a;
+  text-transform: uppercase;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}
